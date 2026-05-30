@@ -46,17 +46,11 @@
 
 <h3>🌲 Stats</h3>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Thoriqfm&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Thoriqfm&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Thoriqfm&show_icons=true" />
-</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Thoriqfm" alt="Thoriqfm'sGitHub stats" />
+
+</a>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%" alt="Footer" />
