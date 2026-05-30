@@ -41,7 +41,7 @@
 <h3>📈 Activity</h3>
 
 <a href="https://github.com/Thoriqfm">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thoriqfm&theme=github-compact&radius=16" width="100%" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thoriqfm&theme=github-compact&radius=16&cache_seconds=1800" width="100%" alt="Activity graph" />
 </a>
 
 <h3>🌲 Stats</h3>
@@ -49,7 +49,7 @@
 <table align="center">
   <tr>
     <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/card?username=Thoriqfm&bg=0D1117&text=A8B3A9&title_color=2563EB&icon_color=D6A85E&hide_border=true&show_icons=true&custom_title=GitHub+Stats" alt="GitHub stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Thoriqfm&bg_color=0D1117&text_color=A8B3A9&title_color=2563EB&icon_color=D6A85E&hide_border=true&show_icons=true&custom_title=GitHub+Stats" alt="GitHub stats" />
     </td>
     <td width="2%"></td>
     <td width="49%" valign="top">
