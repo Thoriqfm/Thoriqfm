@@ -46,17 +46,7 @@
 
 <h3>🌲 Stats</h3>
 
-<table align="center">
-  <tr>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/card?username=Thoriqfm&bg=0D1117&text=A8B3A9&title_color=2563EB&icon_color=D6A85E&hide_border=true&show_icons=true&custom_title=GitHub+Stats" alt="GitHub stats" />
-    </td>
-    <td width="2%"></td>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://streak-stats.demolab.com?user=Thoriqfm&theme=dark&hide_border=true&background=0D1117&ring=4F7A5C&fire=D6A85E&currStreakLabel=4F7A5C&sideNums=D6A85E&currStreakNum=D6A85E&dates=A8B3A9&sideLabels=A8B3A9" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thoriqfm&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%" alt="Footer" />
