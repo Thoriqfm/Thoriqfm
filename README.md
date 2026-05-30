@@ -46,7 +46,17 @@
 
 <h3>🌲 Stats</h3>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thoriqfm&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Thoriqfm&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Thoriqfm&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thoriqfm&show_icons=true" />
+</picture>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%" alt="Footer" />
