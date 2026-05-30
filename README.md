@@ -46,11 +46,7 @@
 
 <h3>🌲 Stats</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Thoriqfm" alt="Thoriqfm'sGitHub stats" />
-
-</a>
+<img width="100%" src="./profile/stats.svg" alt="GitHub stats" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%" alt="Footer" />
