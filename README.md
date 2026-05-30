@@ -49,7 +49,7 @@
 <table align="center">
   <tr>
     <td width="49%" valign="top">
-      <img width="100%" src="https://github-readme-stats-git-masterorionmaster-kayla-hammons.vercel.app/api?username=Thoriqfm&bg_color=0D1117&text_color=A8B3A9&title_color=2563EB&icon_color=D6A85E&hide_border=true&show_icons=true&custom_title=GitHub+Stats&cache_seconds=1800" alt="GitHub stats" />
+      <img width="100%" src="https://ghstats.dev/api/card?username=Thoriqfm&bg=0D1117&text=A8B3A9&title_color=2563EB&icon_color=D6A85E&hide_border=true&show_icons=true&custom_title=GitHub+Stats" alt="GitHub stats" />
     </td>
     <td width="2%"></td>
     <td width="49%" valign="top">
