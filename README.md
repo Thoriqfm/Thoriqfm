@@ -46,7 +46,7 @@
 
 <h3>🌲 Stats</h3>
 
-<img width="80%" src="./profile/stats.svg" alt="GitHub stats" />
+<img width="60%" src="./profile/stats.svg" alt="GitHub stats" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%" alt="Footer" />
